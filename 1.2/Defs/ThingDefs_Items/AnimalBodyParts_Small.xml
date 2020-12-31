@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <!-- natural -->
+  <ThingDef ParentName="AnimalNaturalHeartBase">
+    <defName>AnimalNaturalHeartSmall</defName>
+    <label>animal heart (small)</label>
+    <description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>150</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalKidneyBase">
+    <defName>AnimalNaturalKidneySmall</defName>
+    <label>animal kidney (small)</label>
+    <description>Filters and removes waste products from the blood.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>75</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalLiverBase">
+    <defName>AnimalNaturalLiverSmall</defName>
+    <label>animal liver (small)</label>
+    <description>Plays an important role in metabolism.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>150</MarketValue>
+      <Mass>1</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalLungBase">
+    <defName>AnimalNaturalLungSmall</defName>
+    <label>animal lung (small)</label>
+    <description>Essential part of the respiratory system.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>120</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+  </ThingDef>
+  <!-- simple -->
+  <ThingDef ParentName="AnimalSimpleLegBase">
+    <defName>SimpleProstheticAnimalLegSmall</defName>
+    <label>simple prosthetic animal leg (small)</label>
+    <description>Simple prosthesis made to replace a missing leg. Not very comfortable but quite efficient.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>90</MarketValue>
+      <Mass>4</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalSimpleArmBase">
+    <defName>SimpleProstheticAnimalArmSmall</defName>
+    <label>simple prosthetic animal arm (small)</label>
+    <description>Simple but durable arm prosthesis.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>90</MarketValue>
+      <Mass>2.5</Mass>
+    </statBases>
+  </ThingDef>
+  <!-- bionic -->
+  <ThingDef ParentName="AnimalBionicEyeBase">
+    <defName>BionicAnimalEyeSmall</defName>
+    <label>bionic animal eye (small)</label>
+    <description>Advanced piece of technology made not only to fully replace a natural eye, but also to give supernatural vision abilities.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>350</MarketValue>
+      <Mass>0.15</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicLegBase">
+    <defName>BionicAnimalLegSmall</defName>
+    <label>bionic animal leg (small)</label>
+    <description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>350</MarketValue>
+      <Mass>4</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicArmBase">
+    <defName>BionicAnimalArmSmall</defName>
+    <label>bionic animal arm (small)</label>
+    <description>One of the most sophisticated arm replacements. Gives extreme strength to its user.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>350</MarketValue>
+      <Mass>2.5</Mass>
+    </statBases>
+  </ThingDef>
+  <!-- implant -->
+  <ThingDef ParentName="AnimalPainstopperBase">
+    <defName>AnimalPainstopperSmall</defName>
+    <label>animal painstopper (small)</label>
+    <description>This brain implant will make an animal not feel pain.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
+    <statBases>
+      <MarketValue>230</MarketValue>
+      <Mass>0.04</Mass>
+    </statBases>
+  </ThingDef>
+</Defs>

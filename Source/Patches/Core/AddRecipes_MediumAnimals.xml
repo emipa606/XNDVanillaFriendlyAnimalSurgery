@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <!-- medium animals list:
+	[defName="Gazelle" or defName="Pig" or defName="LabradorRetriever" or defName="Lynx" or defName="Cassowary" or defName="Emu" or defName="Spelopede" or defName="WildBoar" or defName="Ibex" or @Name="ThingBaseWolf" or defName="Husky" or defName="Deer" or defName="Ostrich" or defName="Alpaca" or defName="Warg" or defName="Megaspider"]-->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/ThingDef[defName="Gazelle" or defName="Pig" or defName="LabradorRetriever" or defName="Lynx" or defName="Cassowary" or defName="Emu" or defName="Spelopede" or defName="WildBoar" or defName="Ibex" or @Name="ThingBaseWolf" or defName="Husky" or defName="Deer" or defName="Ostrich" or defName="Alpaca" or defName="Warg" or defName="Megaspider"]/recipes</xpath>
+        <success>Invert</success>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Gazelle" or defName="Pig" or defName="LabradorRetriever" or defName="Lynx" or defName="Cassowary" or defName="Emu" or defName="Spelopede" or defName="WildBoar" or defName="Ibex" or @Name="ThingBaseWolf" or defName="Husky" or defName="Deer" or defName="Ostrich" or defName="Alpaca" or defName="Warg" or defName="Megaspider"]</xpath>
+        <value>
+          <recipes />
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Gazelle" or defName="Pig" or defName="LabradorRetriever" or defName="Lynx" or defName="Cassowary" or defName="Emu" or defName="Spelopede" or defName="WildBoar" or defName="Ibex" or @Name="ThingBaseWolf" or defName="Husky" or defName="Deer" or defName="Ostrich" or defName="Alpaca" or defName="Warg" or defName="Megaspider"]/recipes</xpath>
+    <value>
+      <li>InstallAnimalNaturalHeartMedium</li>
+      <li>InstallAnimalNaturalKidneyMedium</li>
+      <li>InstallAnimalNaturalLiverMedium</li>
+      <li>InstallAnimalNaturalLungMedium</li>
+      <li>InstallAnimalDentureMedium</li>
+      <li>InstallPegAnimalLegMedium</li>
+      <li>InstallSimpleProstheticAnimalArmMedium</li>
+      <li>InstallSimpleProstheticAnimalLegMedium</li>
+      <li>InstallBionicAnimalArmMedium</li>
+      <li>InstallBionicAnimalEyeMedium</li>
+      <li>InstallAnimalPainstopperMedium</li>
+    </value>
+  </Operation>
+  <!-- standard leg recipes -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Gazelle" or defName="Pig" or defName="LabradorRetriever" or defName="Lynx" or defName="Spelopede" or defName="WildBoar" or defName="Ibex" or @Name="ThingBaseWolf" or defName="Husky" or defName="Deer" or defName="Alpaca" or defName="Warg" or defName="Megaspider"]/recipes</xpath>
+    <value>
+      <li>InstallBionicAnimalLegMediumFront</li>
+      <li>InstallBionicAnimalLegMedium</li>
+    </value>
+  </Operation>
+  <!-- birdlike leg recipes -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Cassowary" or defName="Emu" or defName="Ostrich"]/recipes</xpath>
+    <value>
+      <li>InstallBionicAnimalLegMediumBirdlike</li>
+    </value>
+  </Operation>
+</Patch>

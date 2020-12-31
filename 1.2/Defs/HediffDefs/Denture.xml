@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <HediffDef ParentName="AddedBodyPartBase" Name="AnimalDentureHediffBase" Abstract="True">
+    <label>denture</label>
+    <description>denture</description>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>0.8</partEfficiency>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="AnimalDentureHediffBase">
+    <defName>AnimalDentureTiny</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <capacities>
+              <li>Bite</li>
+            </capacities>
+            <power>3</power>
+            <cooldownTime>1.65</cooldownTime>
+            <chanceFactor>0.2</chanceFactor>
+          </li>
+        </tools>
+      </li>
+    </comps>
+  </HediffDef>
+  <HediffDef ParentName="AnimalDentureHediffBase">
+    <defName>AnimalDentureSmall</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <capacities>
+              <li>Bite</li>
+            </capacities>
+            <power>5</power>
+            <cooldownTime>1.75</cooldownTime>
+            <chanceFactor>0.2</chanceFactor>
+          </li>
+        </tools>
+      </li>
+    </comps>
+  </HediffDef>
+  <HediffDef ParentName="AnimalDentureHediffBase">
+    <defName>AnimalDentureMedium</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <capacities>
+              <li>Bite</li>
+            </capacities>
+            <power>7</power>
+            <cooldownTime>1.85</cooldownTime>
+            <chanceFactor>0.2</chanceFactor>
+          </li>
+        </tools>
+      </li>
+    </comps>
+  </HediffDef>
+  <HediffDef ParentName="AnimalDentureHediffBase">
+    <defName>AnimalDentureLarge</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <capacities>
+              <li>Bite</li>
+            </capacities>
+            <power>10</power>
+            <cooldownTime>1.95</cooldownTime>
+            <chanceFactor>0.2</chanceFactor>
+          </li>
+        </tools>
+      </li>
+    </comps>
+  </HediffDef>
+  <HediffDef ParentName="AnimalDentureHediffBase">
+    <defName>AnimalDentureHuge</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <capacities>
+              <li>Bite</li>
+            </capacities>
+            <power>13</power>
+            <cooldownTime>2.05</cooldownTime>
+            <chanceFactor>0.2</chanceFactor>
+          </li>
+        </tools>
+      </li>
+    </comps>
+  </HediffDef>
+</Defs>

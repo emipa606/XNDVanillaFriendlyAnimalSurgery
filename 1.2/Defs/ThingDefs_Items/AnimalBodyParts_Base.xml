@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <ThingDef Name="AnimalBodyPartBase" Abstract="True">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <Flammability>1</Flammability>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <altitudeLayer>Item</altitudeLayer>
+    <tickerType>Never</tickerType>
+    <alwaysHaulable>True</alwaysHaulable>
+    <isTechHediff>true</isTechHediff>
+    <tradeTags>
+      <li>AnimalBodyPartOrImplant</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+    <pathCost>10</pathCost>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartBase" Name="AnimalBodyPartNaturalBase" Abstract="True">
+    <graphicData>
+      <texPath>Things/Item/Health/HealthItem</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>4.0</DeteriorationRate>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartBase" Name="AnimalBodyPartArtificialBase" Abstract="True">
+    <graphicData>
+      <texPath>Things/Item/Health/HealthItem</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>2.0</DeteriorationRate>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartBase" Name="AnimalImplantBase" Abstract="True">
+    <graphicData>
+      <texPath>Things/Item/Health/HealthItem</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>2.0</DeteriorationRate>
+    </statBases>
+  </ThingDef>
+  <!-- natural sub-bases -->
+  <ThingDef ParentName="AnimalBodyPartNaturalBase" Name="AnimalNaturalHeartBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalNaturalHearts</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartNaturalBase" Name="AnimalNaturalKidneyBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalNaturalKidneys</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartNaturalBase" Name="AnimalNaturalLiverBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalNaturalLivers</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartNaturalBase" Name="AnimalNaturalLungBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalNaturalLungs</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- artificial sub-bases -->
+  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBionicArmBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalBionicArms</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBionicEyeBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalBionicEyes</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBionicLegBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalBionicLegs</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalSimpleArmBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalSimpleArms</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalSimpleLegBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalSimpleLegs</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- implant sub-bases -->
+  <ThingDef ParentName="AnimalImplantBase" Name="AnimalPainstopperBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalPainstoppers</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>

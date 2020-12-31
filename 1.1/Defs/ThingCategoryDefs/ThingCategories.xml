@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <ThingCategoryDef>
+    <defName>AnimalBodyParts</defName>
+    <label>animal</label>
+    <parent>BodyParts</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>AnimalBodyPartsNatural</defName>
+    <label>natural</label>
+    <parent>AnimalBodyParts</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>AnimalBodyPartsArtificial</defName>
+    <label>artificial</label>
+    <parent>AnimalBodyParts</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>AnimalImplants</defName>
+    <label>implants</label>
+    <parent>AnimalBodyParts</parent>
+  </ThingCategoryDef>
+  <!-- natural sub-categories -->
+  <ThingCategoryDef Name="AnimalNaturalBodyPartCategoryBase" Abstract="True">
+    <parent>AnimalBodyPartsNatural</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalNaturalBodyPartCategoryBase">
+    <defName>AnimalNaturalHearts</defName>
+    <label>hearts</label>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalNaturalBodyPartCategoryBase">
+    <defName>AnimalNaturalKidneys</defName>
+    <label>kidneys</label>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalNaturalBodyPartCategoryBase">
+    <defName>AnimalNaturalLivers</defName>
+    <label>livers</label>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalNaturalBodyPartCategoryBase">
+    <defName>AnimalNaturalLungs</defName>
+    <label>lungs</label>
+  </ThingCategoryDef>
+  <!-- artificial sub-categories -->
+  <ThingCategoryDef Name="AnimalArtificialBodyPartCategoryBase" Abstract="True">
+    <parent>AnimalBodyPartsArtificial</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalArtificialBodyPartCategoryBase">
+    <defName>AnimalBionicArms</defName>
+    <label>bionic arms</label>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalArtificialBodyPartCategoryBase">
+    <defName>AnimalBionicEyes</defName>
+    <label>bionic eyes</label>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalArtificialBodyPartCategoryBase">
+    <defName>AnimalBionicLegs</defName>
+    <label>bionic legs</label>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalArtificialBodyPartCategoryBase">
+    <defName>AnimalSimpleArms</defName>
+    <label>simple prosthetic arms</label>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalArtificialBodyPartCategoryBase">
+    <defName>AnimalSimpleLegs</defName>
+    <label>simple prosthetic legs</label>
+  </ThingCategoryDef>
+  <!-- implant sub-categories -->
+  <ThingCategoryDef Name="AnimalImplantCategoryBase" Abstract="True">
+    <parent>AnimalImplants</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef ParentName="AnimalArtificialBodyPartCategoryBase">
+    <defName>AnimalPainstoppers</defName>
+    <label>painstoppers</label>
+  </ThingCategoryDef>
+</Defs>

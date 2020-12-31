@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <!-- huge animals list:
+	[defName="Rhinoceros" or defName="Thrumbo" or defName="Elephant" or defName="Megasloth"]-->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/ThingDef[defName="Rhinoceros" or defName="Thrumbo" or defName="Elephant" or defName="Megasloth"]/recipes</xpath>
+        <success>Invert</success>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Rhinoceros" or defName="Thrumbo" or defName="Elephant" or defName="Megasloth"]</xpath>
+        <value>
+          <recipes />
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Rhinoceros" or defName="Thrumbo" or defName="Elephant" or defName="Megasloth"]/recipes</xpath>
+    <value>
+      <li>InstallAnimalNaturalHeartHuge</li>
+      <li>InstallAnimalNaturalKidneyHuge</li>
+      <li>InstallAnimalNaturalLiverHuge</li>
+      <li>InstallAnimalNaturalLungHuge</li>
+      <li>InstallAnimalDentureHuge</li>
+      <li>InstallPegAnimalLegHuge</li>
+      <li>InstallSimpleProstheticAnimalArmHuge</li>
+      <li>InstallSimpleProstheticAnimalLegHuge</li>
+      <li>InstallBionicAnimalArmHuge</li>
+      <li>InstallBionicAnimalEyeHuge</li>
+      <li>InstallAnimalPainstopperHuge</li>
+    </value>
+  </Operation>
+  <!-- standard leg recipes -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Rhinoceros" or defName="Thrumbo" or defName="Elephant" or defName="Megasloth"]/recipes</xpath>
+    <value>
+      <li>InstallBionicAnimalLegHugeFront</li>
+      <li>InstallBionicAnimalLegHuge</li>
+    </value>
+  </Operation>
+  <!-- birdlike leg recipes -->
+</Patch>

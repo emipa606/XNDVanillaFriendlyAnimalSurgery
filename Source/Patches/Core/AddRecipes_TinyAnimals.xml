@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <!-- tiny animals list:
+	[defName="Squirrel" or defName="Rat" or defName="Chicken" or defName="Iguana" or @Name="BaseHare" or defName="Megascarab" or defName="Boomrat" or defName="Chinchilla" or defName="Cobra" or defName="Cat"]-->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/ThingDef[defName="Squirrel" or defName="Rat" or defName="Chicken" or defName="Iguana" or @Name="BaseHare" or defName="Megascarab" or defName="Boomrat" or defName="Chinchilla" or defName="Cobra" or defName="Cat"]/recipes</xpath>
+        <success>Invert</success>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Squirrel" or defName="Rat" or defName="Chicken" or defName="Iguana" or @Name="BaseHare" or defName="Megascarab" or defName="Boomrat" or defName="Chinchilla" or defName="Cobra" or defName="Cat"]</xpath>
+        <value>
+          <recipes />
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Squirrel" or defName="Rat" or defName="Chicken" or defName="Iguana" or @Name="BaseHare" or defName="Megascarab" or defName="Boomrat" or defName="Chinchilla" or defName="Cobra" or defName="Cat"]/recipes</xpath>
+    <value>
+      <li>InstallAnimalNaturalHeartTiny</li>
+      <li>InstallAnimalNaturalKidneyTiny</li>
+      <li>InstallAnimalNaturalLiverTiny</li>
+      <li>InstallAnimalNaturalLungTiny</li>
+      <li>InstallAnimalDentureTiny</li>
+      <li>InstallPegAnimalLegTiny</li>
+      <li>InstallSimpleProstheticAnimalArmTiny</li>
+      <li>InstallSimpleProstheticAnimalLegTiny</li>
+      <li>InstallBionicAnimalArmTiny</li>
+      <li>InstallBionicAnimalEyeTiny</li>
+      <li>InstallAnimalPainstopperTiny</li>
+    </value>
+  </Operation>
+  <!-- standard leg recipes -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Squirrel" or defName="Rat" or defName="Iguana" or @Name="BaseHare" or defName="Megascarab" or defName="Boomrat" or defName="Chinchilla" or defName="Cobra" or defName="Cat"]/recipes</xpath>
+    <value>
+      <li>InstallBionicAnimalLegTinyFront</li>
+      <li>InstallBionicAnimalLegTiny</li>
+    </value>
+  </Operation>
+  <!-- birdlike leg recipes -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Chicken"]/recipes</xpath>
+    <value>
+      <li>InstallBionicAnimalLegTinyBirdlike</li>
+    </value>
+  </Operation>
+</Patch>

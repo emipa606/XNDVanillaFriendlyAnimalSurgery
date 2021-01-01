@@ -39,6 +39,36 @@
     <statBases>
       <DeteriorationRate>2.0</DeteriorationRate>
     </statBases>
+    <recipeMaker>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBodyPartProstheticBase" Abstract="True">
+    <recipeMaker>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+      <unfinishedThingDef>UnfinishedHealthItemProsthetic</unfinishedThingDef>
+      <researchPrerequisite>Prosthetics</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBodyPartBionicBase" Abstract="True">
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedHealthItemBionic</unfinishedThingDef>
+      <skillRequirements>
+        <Crafting>8</Crafting>
+      </skillRequirements>
+      <researchPrerequisite>Bionics</researchPrerequisite>
+      <recipeUsers>
+        <li>FabricationBench</li>
+      </recipeUsers>
+    </recipeMaker>
   </ThingDef>
   <ThingDef ParentName="AnimalBodyPartBase" Name="AnimalImplantBase" Abstract="True">
     <graphicData>
@@ -71,27 +101,27 @@
     </thingCategories>
   </ThingDef>
   <!-- artificial sub-bases -->
-  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBionicArmBase" Abstract="True">
+  <ThingDef ParentName="AnimalBodyPartBionicBase" Name="AnimalBionicArmBase" Abstract="True">
     <thingCategories>
       <li>AnimalBionicArms</li>
     </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBionicEyeBase" Abstract="True">
+  <ThingDef ParentName="AnimalBodyPartBionicBase" Name="AnimalBionicEyeBase" Abstract="True">
     <thingCategories>
       <li>AnimalBionicEyes</li>
     </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalBionicLegBase" Abstract="True">
+  <ThingDef ParentName="AnimalBodyPartBionicBase" Name="AnimalBionicLegBase" Abstract="True">
     <thingCategories>
       <li>AnimalBionicLegs</li>
     </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalSimpleArmBase" Abstract="True">
+  <ThingDef ParentName="AnimalBodyPartProstheticBase" Name="AnimalSimpleArmBase" Abstract="True">
     <thingCategories>
       <li>AnimalSimpleArms</li>
     </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="AnimalBodyPartArtificialBase" Name="AnimalSimpleLegBase" Abstract="True">
+  <ThingDef ParentName="AnimalBodyPartProstheticBase" Name="AnimalSimpleLegBase" Abstract="True">
     <thingCategories>
       <li>AnimalSimpleLegs</li>
     </thingCategories>

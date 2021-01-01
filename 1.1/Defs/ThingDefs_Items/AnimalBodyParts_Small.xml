@@ -40,21 +40,31 @@
   <!-- simple -->
   <ThingDef ParentName="AnimalSimpleLegBase">
     <defName>SimpleProstheticAnimalLegSmall</defName>
-    <label>simple prosthetic animal leg (small)</label>
+    <label>prosthetic animal leg (small)</label>
     <description>Simple prosthesis made to replace a missing leg. Not very comfortable but quite efficient.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
     <statBases>
       <MarketValue>90</MarketValue>
       <Mass>4</Mass>
+      <WorkToMake>6000</WorkToMake>
     </statBases>
+    <costList>
+      <Steel>30</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
   </ThingDef>
   <ThingDef ParentName="AnimalSimpleArmBase">
     <defName>SimpleProstheticAnimalArmSmall</defName>
-    <label>simple prosthetic animal arm (small)</label>
+    <label>prosthetic animal arm (small)</label>
     <description>Simple but durable arm prosthesis.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7.</description>
     <statBases>
       <MarketValue>90</MarketValue>
       <Mass>2.5</Mass>
+      <WorkToMake>6000</WorkToMake>
     </statBases>
+    <costList>
+      <Steel>30</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
   </ThingDef>
   <!-- bionic -->
   <ThingDef ParentName="AnimalBionicEyeBase">
@@ -64,7 +74,12 @@
     <statBases>
       <MarketValue>350</MarketValue>
       <Mass>0.15</Mass>
+      <WorkToMake>12000</WorkToMake>
     </statBases>
+    <costList>
+      <Plasteel>10</Plasteel>
+      <ComponentSpacer>2</ComponentSpacer>
+    </costList>
   </ThingDef>
   <ThingDef ParentName="AnimalBionicLegBase">
     <defName>BionicAnimalLegSmall</defName>
@@ -73,7 +88,12 @@
     <statBases>
       <MarketValue>350</MarketValue>
       <Mass>4</Mass>
+      <WorkToMake>12000</WorkToMake>
     </statBases>
+    <costList>
+      <Plasteel>15</Plasteel>
+      <ComponentSpacer>2</ComponentSpacer>
+    </costList>
   </ThingDef>
   <ThingDef ParentName="AnimalBionicArmBase">
     <defName>BionicAnimalArmSmall</defName>
@@ -82,7 +102,12 @@
     <statBases>
       <MarketValue>350</MarketValue>
       <Mass>2.5</Mass>
+      <WorkToMake>12000</WorkToMake>
     </statBases>
+    <costList>
+      <Plasteel>15</Plasteel>
+      <ComponentSpacer>2</ComponentSpacer>
+    </costList>
   </ThingDef>
   <!-- implant -->
   <ThingDef ParentName="AnimalPainstopperBase">

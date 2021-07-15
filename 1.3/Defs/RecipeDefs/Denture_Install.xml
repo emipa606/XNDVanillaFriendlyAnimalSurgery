@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <RecipeDef ParentName="SurgeryAnimalFlesh" Name="InstallAnimalDentureBase" Abstract="True">
+    <label>install denture</label>
+    <description>Installs denture.</description>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing denture.</jobString>
+    <workAmount>1500</workAmount>
+    <surgerySuccessChanceFactor>1.3</surgerySuccessChanceFactor>
+    <skillRequirements>
+      <Medicine>2</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Jaw</li>
+      <li>Beak</li>
+      <li>SnakeMouth</li>
+      <li>InsectMouth</li>
+      <li>AnimalJaw</li>
+    </appliedOnFixedBodyParts>
+  </RecipeDef>
+  <RecipeDef ParentName="InstallAnimalDentureBase">
+    <defName>InstallAnimalDentureTiny</defName>
+    <addsHediff>AnimalDentureTiny</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="InstallAnimalDentureBase">
+    <defName>InstallAnimalDentureSmall</defName>
+    <addsHediff>AnimalDentureSmall</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="InstallAnimalDentureBase">
+    <defName>InstallAnimalDentureMedium</defName>
+    <addsHediff>AnimalDentureMedium</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="InstallAnimalDentureBase">
+    <defName>InstallAnimalDentureLarge</defName>
+    <addsHediff>AnimalDentureLarge</addsHediff>
+  </RecipeDef>
+  <RecipeDef ParentName="InstallAnimalDentureBase">
+    <defName>InstallAnimalDentureHuge</defName>
+    <addsHediff>AnimalDentureHuge</addsHediff>
+  </RecipeDef>
+</Defs>

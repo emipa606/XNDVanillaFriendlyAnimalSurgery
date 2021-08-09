@@ -1,5 +1,8 @@
 # Changelog for XNDVanillaFriendlyAnimalSurgery
 
+1.0.3.0 - Fixed bionic legs not showing
+
+
 1.0.2.0 - Mod updated for 1.3 and passed autotests
 
 

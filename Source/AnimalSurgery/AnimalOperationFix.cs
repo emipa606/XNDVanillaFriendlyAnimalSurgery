@@ -27,6 +27,7 @@ namespace AnimalArmourFix
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallSimpleProstheticAnimalLegHuge",
                             false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalArmHuge", false));
+                        animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalLegHuge", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalEyeHuge", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallAnimalPainstopperHuge", false));
                         break;
@@ -43,6 +44,7 @@ namespace AnimalArmourFix
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallSimpleProstheticAnimalLegLarge",
                             false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalArmLarge", false));
+                        animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalLegLarge", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalEyeLarge", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallAnimalPainstopperLarge", false));
                         break;
@@ -61,6 +63,7 @@ namespace AnimalArmourFix
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallSimpleProstheticAnimalLegMedium",
                             false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalArmMedium", false));
+                        animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalLegMedium", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalEyeMedium", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallAnimalPainstopperMedium", false));
                         break;
@@ -77,6 +80,7 @@ namespace AnimalArmourFix
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallSimpleProstheticAnimalLegSmall",
                             false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalArmSmall", false));
+                        animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalLegSmall", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalEyeSmall", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallAnimalPainstopperSmall", false));
                         break;
@@ -92,6 +96,7 @@ namespace AnimalArmourFix
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallSimpleProstheticAnimalLegTiny",
                             false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalArmTiny", false));
+                        animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalLegTiny", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallBionicAnimalEyeTiny", false));
                         animalDef.recipes.Add(DefDatabase<RecipeDef>.GetNamed("InstallAnimalPainstopperTiny", false));
                         break;

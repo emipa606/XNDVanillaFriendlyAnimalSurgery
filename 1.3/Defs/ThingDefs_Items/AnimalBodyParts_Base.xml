@@ -111,6 +111,11 @@
       <li>AnimalBionicEyes</li>
     </thingCategories>
   </ThingDef>
+  <ThingDef ParentName="AnimalBodyPartBionicBase" Name="AnimalBionicEarBase" Abstract="True">
+    <thingCategories>
+      <li>AnimalBionicEars</li>
+    </thingCategories>
+  </ThingDef>
   <ThingDef ParentName="AnimalBodyPartBionicBase" Name="AnimalBionicLegBase" Abstract="True">
     <thingCategories>
       <li>AnimalBionicLegs</li>

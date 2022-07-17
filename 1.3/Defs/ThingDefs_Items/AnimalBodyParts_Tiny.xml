@@ -81,6 +81,20 @@
       <ComponentSpacer>1</ComponentSpacer>
     </costList>
   </ThingDef>
+  <ThingDef ParentName="AnimalBionicEarBase">
+    <defName>BionicAnimalEarTiny</defName>
+    <label>bionic animal ear (tiny)</label>
+    <description>An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>150</MarketValue>
+      <Mass>0.005</Mass>
+      <WorkToMake>4000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>3</Plasteel>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+  </ThingDef>
   <ThingDef ParentName="AnimalBionicLegBase">
     <defName>BionicAnimalLegTiny</defName>
     <label>bionic animal leg (tiny)</label>

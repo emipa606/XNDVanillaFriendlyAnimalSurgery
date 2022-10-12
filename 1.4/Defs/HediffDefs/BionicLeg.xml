@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <HediffDef ParentName="AddedBodyPartBase" Name="BionicAnimalLegBase" Abstract="True">
+    <label>bionic leg</label>
+    <description>bionic leg</description>
+    <labelNoun>a bionic leg</labelNoun>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.4</partEfficiency>
+      <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegTiny</defName>
+    <spawnThingOnRemoved>BionicAnimalLegTiny</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegSmall</defName>
+    <spawnThingOnRemoved>BionicAnimalLegSmall</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegMedium</defName>
+    <spawnThingOnRemoved>BionicAnimalLegMedium</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegLarge</defName>
+    <spawnThingOnRemoved>BionicAnimalLegLarge</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegHuge</defName>
+    <spawnThingOnRemoved>BionicAnimalLegHuge</spawnThingOnRemoved>
+  </HediffDef>
+  <!-- front legs -->
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegTinyFront</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>leg</label>
+            <capacities>
+              <li>Scratch</li>
+            </capacities>
+            <power>5</power>
+            <cooldownTime>1.5</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalLegTiny</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegSmallFront</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>leg</label>
+            <capacities>
+              <li>Scratch</li>
+            </capacities>
+            <power>8</power>
+            <cooldownTime>1.65</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalLegSmall</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegMediumFront</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>leg</label>
+            <capacities>
+              <li>Scratch</li>
+            </capacities>
+            <power>11</power>
+            <cooldownTime>1.65</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalLegMedium</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegLargeFront</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>leg</label>
+            <capacities>
+              <li>Scratch</li>
+            </capacities>
+            <power>15</power>
+            <cooldownTime>1.85</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalLegLarge</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalLegBase">
+    <defName>BionicAnimalLegHugeFront</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>leg</label>
+            <capacities>
+              <li>Scratch</li>
+            </capacities>
+            <power>21</power>
+            <cooldownTime>2.05</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalLegHuge</spawnThingOnRemoved>
+  </HediffDef>
+</Defs>

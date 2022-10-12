@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <!-- natural -->
+  <ThingDef ParentName="AnimalNaturalHeartBase">
+    <defName>AnimalNaturalHeartTiny</defName>
+    <label>animal heart (tiny)</label>
+    <description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>100</MarketValue>
+      <Mass>0.25</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalKidneyBase">
+    <defName>AnimalNaturalKidneyTiny</defName>
+    <label>animal kidney (tiny)</label>
+    <description>Filters and removes waste products from the blood.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>50</MarketValue>
+      <Mass>0.25</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalLiverBase">
+    <defName>AnimalNaturalLiverTiny</defName>
+    <label>animal liver (tiny)</label>
+    <description>Plays an important role in metabolism.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>100</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalLungBase">
+    <defName>AnimalNaturalLungTiny</defName>
+    <label>animal lung (tiny)</label>
+    <description>Essential part of the respiratory system.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>80</MarketValue>
+      <Mass>0.25</Mass>
+    </statBases>
+  </ThingDef>
+  <!-- simple -->
+  <ThingDef ParentName="AnimalSimpleLegBase">
+    <defName>SimpleProstheticAnimalLegTiny</defName>
+    <label>prosthetic animal leg (tiny)</label>
+    <description>Simple prosthesis made to replace a missing leg. Not very comfortable but quite efficient.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>45</MarketValue>
+      <Mass>2</Mass>
+      <WorkToMake>2000</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>20</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalSimpleArmBase">
+    <defName>SimpleProstheticAnimalArmTiny</defName>
+    <label>prosthetic animal arm (tiny)</label>
+    <description>Simple but durable arm prosthesis.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>45</MarketValue>
+      <Mass>1.25</Mass>
+      <WorkToMake>2000</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>20</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+  </ThingDef>
+  <!-- bionic -->
+  <ThingDef ParentName="AnimalBionicEyeBase">
+    <defName>BionicAnimalEyeTiny</defName>
+    <label>bionic animal eye (tiny)</label>
+    <description>Advanced piece of technology made not only to fully replace a natural eye, but also to give supernatural vision abilities.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>175</MarketValue>
+      <Mass>0.075</Mass>
+      <WorkToMake>5000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>5</Plasteel>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicEarBase">
+    <defName>BionicAnimalEarTiny</defName>
+    <label>bionic animal ear (tiny)</label>
+    <description>An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>150</MarketValue>
+      <Mass>0.005</Mass>
+      <WorkToMake>4000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>3</Plasteel>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicLegBase">
+    <defName>BionicAnimalLegTiny</defName>
+    <label>bionic animal leg (tiny)</label>
+    <description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>175</MarketValue>
+      <Mass>2</Mass>
+      <WorkToMake>5000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>10</Plasteel>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicArmBase">
+    <defName>BionicAnimalArmTiny</defName>
+    <label>bionic animal arm (tiny)</label>
+    <description>One of the most sophisticated arm replacements. Gives extreme strength to its user.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>175</MarketValue>
+      <Mass>1.25</Mass>
+      <WorkToMake>5000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>10</Plasteel>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <!-- implant -->
+  <ThingDef ParentName="AnimalPainstopperBase">
+    <defName>AnimalPainstopperTiny</defName>
+    <label>animal painstopper (tiny)</label>
+    <description>This brain implant will make an animal not feel pain.\n\nFits on animals with a mature body size of less than 0.3.</description>
+    <statBases>
+      <MarketValue>115</MarketValue>
+      <Mass>0.02</Mass>
+    </statBases>
+  </ThingDef>
+</Defs>

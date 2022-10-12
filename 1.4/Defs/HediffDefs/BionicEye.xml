@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <HediffDef ParentName="AddedBodyPartBase" Name="BionicAnimalEyeBase" Abstract="True">
+    <label>bionic eye</label>
+    <description>bionic eye</description>
+    <labelNoun>a bionic eye</labelNoun>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.4</partEfficiency>
+      <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEyeBase">
+    <defName>BionicAnimalEyeTiny</defName>
+    <spawnThingOnRemoved>BionicAnimalEyeTiny</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEyeBase">
+    <defName>BionicAnimalEyeSmall</defName>
+    <spawnThingOnRemoved>BionicAnimalEyeSmall</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEyeBase">
+    <defName>BionicAnimalEyeMedium</defName>
+    <spawnThingOnRemoved>BionicAnimalEyeMedium</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEyeBase">
+    <defName>BionicAnimalEyeLarge</defName>
+    <spawnThingOnRemoved>BionicAnimalEyeLarge</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEyeBase">
+    <defName>BionicAnimalEyeHuge</defName>
+    <spawnThingOnRemoved>BionicAnimalEyeHuge</spawnThingOnRemoved>
+  </HediffDef>
+</Defs>

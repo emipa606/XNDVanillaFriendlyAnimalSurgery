@@ -7,6 +7,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1130112804
 
 - Replaced the patches with assemblies instead, should now work on all animals similar to https://steamcommunity.com/sharedfiles/filedetails/?id=2270547158][XND] Animal Armor (Continued)
 - Added the possibility to craft all animal body-parts
+- Added ear implants
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 

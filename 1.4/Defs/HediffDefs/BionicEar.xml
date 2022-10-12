@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <HediffDef ParentName="AddedBodyPartBase" Name="BionicAnimalEarBase" Abstract="True">
+    <label>bionic ear</label>
+    <description>bionic ear</description>
+    <labelNoun>a bionic ear</labelNoun>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.25</partEfficiency>
+      <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEarBase">
+    <defName>BionicAnimalEarTiny</defName>
+    <spawnThingOnRemoved>BionicAnimalEarTiny</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEarBase">
+    <defName>BionicAnimalEarSmall</defName>
+    <spawnThingOnRemoved>BionicAnimalEarSmall</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEarBase">
+    <defName>BionicAnimalEarMedium</defName>
+    <spawnThingOnRemoved>BionicAnimalEarMedium</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEarBase">
+    <defName>BionicAnimalEarLarge</defName>
+    <spawnThingOnRemoved>BionicAnimalEarLarge</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalEarBase">
+    <defName>BionicAnimalEarHuge</defName>
+    <spawnThingOnRemoved>BionicAnimalEarHuge</spawnThingOnRemoved>
+  </HediffDef>
+</Defs>

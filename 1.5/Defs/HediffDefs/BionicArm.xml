@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <HediffDef ParentName="AddedBodyPartBase" Name="BionicAnimalArmBase" Abstract="True">
+    <label>bionic arm</label>
+    <description>bionic arm</description>
+    <labelNoun>a bionic arm</labelNoun>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.4</partEfficiency>
+      <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalArmBase">
+    <defName>BionicAnimalArmTiny</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>3</power>
+            <cooldownTime>1.25</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalArmTiny</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalArmBase">
+    <defName>BionicAnimalArmSmall</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>5</power>
+            <cooldownTime>1.45</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalArmSmall</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalArmBase">
+    <defName>BionicAnimalArmMedium</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>9</power>
+            <cooldownTime>1.65</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalArmMedium</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalArmBase">
+    <defName>BionicAnimalArmLarge</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>13</power>
+            <cooldownTime>1.85</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalArmLarge</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="BionicAnimalArmBase">
+    <defName>BionicAnimalArmHuge</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>18</power>
+            <cooldownTime>2.05</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>BionicAnimalArmHuge</spawnThingOnRemoved>
+  </HediffDef>
+</Defs>

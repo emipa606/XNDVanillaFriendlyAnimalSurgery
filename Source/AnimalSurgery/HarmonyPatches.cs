@@ -11,12 +11,12 @@ internal static class HarmonyPatches
     static HarmonyPatches()
     {
         var harmonyInstance = new Harmony("mlie.VanillaFriendlyAnimalSurgery");
-        harmonyInstance.Patch(AccessTools.Method(typeof(Recipe_RemoveHediff), "ApplyOnPawn"),
-            new HarmonyMethod(typeof(HarmonyPatches), "RemoveHediff_Prefix"));
-        harmonyInstance.Patch(AccessTools.Method(typeof(Recipe_RemoveHediff), "ApplyOnPawn"), null,
-            new HarmonyMethod(typeof(HarmonyPatches), "RemoveHediff_Postfix"));
-        harmonyInstance.Patch(AccessTools.Method(typeof(Recipe_InstallImplant), "ApplyOnPawn"),
-            new HarmonyMethod(typeof(HarmonyPatches), "SpawnHediff_Prefix"));
+        harmonyInstance.Patch(AccessTools.Method(typeof(Recipe_RemoveHediff), nameof(Recipe_RemoveHediff.ApplyOnPawn)),
+            new HarmonyMethod(typeof(HarmonyPatches), nameof(RemoveHediff_Prefix)),
+            new HarmonyMethod(typeof(HarmonyPatches), nameof(RemoveHediff_Postfix)));
+        harmonyInstance.Patch(
+            AccessTools.Method(typeof(Recipe_InstallImplant), nameof(Recipe_InstallImplant.ApplyOnPawn)),
+            new HarmonyMethod(typeof(HarmonyPatches), nameof(SpawnHediff_Prefix)));
     }
 
     private static bool IsAnimalSurgery(string defName)

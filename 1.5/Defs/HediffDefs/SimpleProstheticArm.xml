@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <HediffDef ParentName="AddedBodyPartBase" Name="SimpleProstheticAnimalArmBase" Abstract="True">
+    <label>simple prosthetic arm</label>
+    <description>simple prosthetic arm</description>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>0.5</partEfficiency>
+    </addedPartProps>
+  </HediffDef>
+  <HediffDef ParentName="SimpleProstheticAnimalArmBase">
+    <defName>SimpleProstheticAnimalArmTiny</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>2.7</power>
+            <cooldownTime>1.25</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>SimpleProstheticAnimalArmTiny</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="SimpleProstheticAnimalArmBase">
+    <defName>SimpleProstheticAnimalArmSmall</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>4.5</power>
+            <cooldownTime>1.45</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>SimpleProstheticAnimalArmSmall</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="SimpleProstheticAnimalArmBase">
+    <defName>SimpleProstheticAnimalArmMedium</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>8</power>
+            <cooldownTime>1.65</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>SimpleProstheticAnimalArmMedium</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="SimpleProstheticAnimalArmBase">
+    <defName>SimpleProstheticAnimalArmLarge</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>11.7</power>
+            <cooldownTime>1.85</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>SimpleProstheticAnimalArmLarge</spawnThingOnRemoved>
+  </HediffDef>
+  <HediffDef ParentName="SimpleProstheticAnimalArmBase">
+    <defName>SimpleProstheticAnimalArmHuge</defName>
+    <comps>
+      <li Class="HediffCompProperties_VerbGiver">
+        <tools>
+          <li>
+            <label>fist</label>
+            <capacities>
+              <li>Blunt</li>
+            </capacities>
+            <power>16</power>
+            <cooldownTime>2.05</cooldownTime>
+          </li>
+        </tools>
+      </li>
+    </comps>
+    <spawnThingOnRemoved>SimpleProstheticAnimalArmHuge</spawnThingOnRemoved>
+  </HediffDef>
+</Defs>

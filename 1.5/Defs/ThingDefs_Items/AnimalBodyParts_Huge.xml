@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <!-- natural -->
+  <ThingDef ParentName="AnimalNaturalHeartBase">
+    <defName>AnimalNaturalHeartHuge</defName>
+    <label>animal heart (huge)</label>
+    <description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>575</MarketValue>
+      <Mass>4</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalKidneyBase">
+    <defName>AnimalNaturalKidneyHuge</defName>
+    <label>animal kidney (huge)</label>
+    <description>Filters and removes waste products from the blood.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>287.5</MarketValue>
+      <Mass>4</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalLiverBase">
+    <defName>AnimalNaturalLiverHuge</defName>
+    <label>animal liver (huge)</label>
+    <description>Plays an important role in metabolism.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>575</MarketValue>
+      <Mass>8</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalNaturalLungBase">
+    <defName>AnimalNaturalLungHuge</defName>
+    <label>animal lung (huge)</label>
+    <description>Essential part of the respiratory system.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>460</MarketValue>
+      <Mass>4</Mass>
+    </statBases>
+  </ThingDef>
+  <!-- simple -->
+  <ThingDef ParentName="AnimalSimpleLegBase">
+    <defName>SimpleProstheticAnimalLegHuge</defName>
+    <label>prosthetic animal leg (huge)</label>
+    <description>Simple prosthesis made to replace a missing leg. Not very comfortable but quite efficient.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>560</MarketValue>
+      <Mass>32</Mass>
+      <WorkToMake>15000</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>60</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalSimpleArmBase">
+    <defName>SimpleProstheticAnimalArmHuge</defName>
+    <label>prosthetic animal arm (huge)</label>
+    <description>Simple but durable arm prosthesis.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>560</MarketValue>
+      <Mass>20</Mass>
+      <WorkToMake>15000</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>60</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+  </ThingDef>
+  <!-- bionic -->
+  <ThingDef ParentName="AnimalBionicEyeBase">
+    <defName>BionicAnimalEyeHuge</defName>
+    <label>bionic animal eye (huge)</label>
+    <description>Advanced piece of technology made not only to fully replace a natural eye, but also to give supernatural vision abilities.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>2100</MarketValue>
+      <Mass>1.2</Mass>
+      <WorkToMake>26000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>25</Plasteel>
+      <ComponentSpacer>3</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicEarBase">
+    <defName>BionicAnimalEarHuge</defName>
+    <label>bionic animal ear (huge)</label>
+    <description>An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>1900</MarketValue>
+      <Mass>1.1</Mass>
+      <WorkToMake>21000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>20</Plasteel>
+      <ComponentSpacer>2</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicLegBase">
+    <defName>BionicAnimalLegHuge</defName>
+    <label>bionic animal leg (huge)</label>
+    <description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>2100</MarketValue>
+      <Mass>32</Mass>
+      <WorkToMake>26000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>30</Plasteel>
+      <ComponentSpacer>3</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="AnimalBionicArmBase">
+    <defName>BionicAnimalArmHuge</defName>
+    <label>bionic animal arm (huge)</label>
+    <description>One of the most sophisticated arm replacements. Gives extreme strength to its user.\n\nFits on animals with a mature body size of greater than 2.4.</description>
+    <statBases>
+      <MarketValue>2100</MarketValue>
+      <Mass>20</Mass>
+      <WorkToMake>26000</WorkToMake>
+    </statBases>
+    <costList>
+      <Plasteel>30</Plasteel>
+      <ComponentSpacer>3</ComponentSpacer>
+    </costList>
+  </ThingDef>
+  <!-- implant -->
+  <ThingDef ParentName="AnimalPainstopperBase">
+    <defName>AnimalPainstopperHuge</defName>
+    <label>animal painstopper (huge)</label>
+    <description>This brain implant will make an animal not feel pain.\n\nFits on animals with a mature body size of 0.7 or greater, but less than 1.3.</description>
+    <statBases>
+      <MarketValue>1400</MarketValue>
+      <Mass>0.32</Mass>
+    </statBases>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegHuge.label>bionic leg</BionicAnimalLegHuge.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegHuge.description>bionic leg</BionicAnimalLegHuge.description>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegHuge.labelNoun>a bionic leg</BionicAnimalLegHuge.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegHugeFront.label>bionic leg</BionicAnimalLegHugeFront.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegHugeFront.description>bionic leg</BionicAnimalLegHugeFront.description>
+  <!-- EN: leg -->
+  <BionicAnimalLegHugeFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</BionicAnimalLegHugeFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegHugeFront.labelNoun>a bionic leg</BionicAnimalLegHugeFront.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegLarge.label>bionic leg</BionicAnimalLegLarge.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegLarge.description>bionic leg</BionicAnimalLegLarge.description>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegLarge.labelNoun>a bionic leg</BionicAnimalLegLarge.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegLargeFront.label>bionic leg</BionicAnimalLegLargeFront.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegLargeFront.description>bionic leg</BionicAnimalLegLargeFront.description>
+  <!-- EN: leg -->
+  <BionicAnimalLegLargeFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</BionicAnimalLegLargeFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegLargeFront.labelNoun>a bionic leg</BionicAnimalLegLargeFront.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegMedium.label>bionic leg</BionicAnimalLegMedium.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegMedium.description>bionic leg</BionicAnimalLegMedium.description>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegMedium.labelNoun>a bionic leg</BionicAnimalLegMedium.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegMediumFront.label>bionic leg</BionicAnimalLegMediumFront.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegMediumFront.description>bionic leg</BionicAnimalLegMediumFront.description>
+  <!-- EN: leg -->
+  <BionicAnimalLegMediumFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</BionicAnimalLegMediumFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegMediumFront.labelNoun>a bionic leg</BionicAnimalLegMediumFront.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegSmall.label>bionic leg</BionicAnimalLegSmall.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegSmall.description>bionic leg</BionicAnimalLegSmall.description>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegSmall.labelNoun>a bionic leg</BionicAnimalLegSmall.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegSmallFront.label>bionic leg</BionicAnimalLegSmallFront.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegSmallFront.description>bionic leg</BionicAnimalLegSmallFront.description>
+  <!-- EN: leg -->
+  <BionicAnimalLegSmallFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</BionicAnimalLegSmallFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegSmallFront.labelNoun>a bionic leg</BionicAnimalLegSmallFront.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegTiny.label>bionic leg</BionicAnimalLegTiny.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegTiny.description>bionic leg</BionicAnimalLegTiny.description>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegTiny.labelNoun>a bionic leg</BionicAnimalLegTiny.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegTinyFront.label>bionic leg</BionicAnimalLegTinyFront.label>
+  <!-- EN: bionic leg -->
+  <BionicAnimalLegTinyFront.description>bionic leg</BionicAnimalLegTinyFront.description>
+  <!-- EN: leg -->
+  <BionicAnimalLegTinyFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</BionicAnimalLegTinyFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: a bionic leg -->
+  <BionicAnimalLegTinyFront.labelNoun>a bionic leg</BionicAnimalLegTinyFront.labelNoun>
+</LanguageData>

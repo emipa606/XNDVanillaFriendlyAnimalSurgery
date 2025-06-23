@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegHuge.label>simple prosthetic leg</SimpleProstheticAnimalLegHuge.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegHuge.description>simple prosthetic leg</SimpleProstheticAnimalLegHuge.description>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegHugeFront.label>simple prosthetic leg</SimpleProstheticAnimalLegHugeFront.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegHugeFront.description>simple prosthetic leg</SimpleProstheticAnimalLegHugeFront.description>
+  <!-- EN: leg -->
+  <SimpleProstheticAnimalLegHugeFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</SimpleProstheticAnimalLegHugeFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegLarge.label>simple prosthetic leg</SimpleProstheticAnimalLegLarge.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegLarge.description>simple prosthetic leg</SimpleProstheticAnimalLegLarge.description>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegLargeFront.label>simple prosthetic leg</SimpleProstheticAnimalLegLargeFront.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegLargeFront.description>simple prosthetic leg</SimpleProstheticAnimalLegLargeFront.description>
+  <!-- EN: leg -->
+  <SimpleProstheticAnimalLegLargeFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</SimpleProstheticAnimalLegLargeFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegMedium.label>simple prosthetic leg</SimpleProstheticAnimalLegMedium.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegMedium.description>simple prosthetic leg</SimpleProstheticAnimalLegMedium.description>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegMediumFront.label>simple prosthetic leg</SimpleProstheticAnimalLegMediumFront.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegMediumFront.description>simple prosthetic leg</SimpleProstheticAnimalLegMediumFront.description>
+  <!-- EN: leg -->
+  <SimpleProstheticAnimalLegMediumFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</SimpleProstheticAnimalLegMediumFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegSmall.label>simple prosthetic leg</SimpleProstheticAnimalLegSmall.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegSmall.description>simple prosthetic leg</SimpleProstheticAnimalLegSmall.description>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegSmallFront.label>simple prosthetic leg</SimpleProstheticAnimalLegSmallFront.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegSmallFront.description>simple prosthetic leg</SimpleProstheticAnimalLegSmallFront.description>
+  <!-- EN: leg -->
+  <SimpleProstheticAnimalLegSmallFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</SimpleProstheticAnimalLegSmallFront.comps.HediffComp_VerbGiver.tools.leg.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegTiny.label>simple prosthetic leg</SimpleProstheticAnimalLegTiny.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegTiny.description>simple prosthetic leg</SimpleProstheticAnimalLegTiny.description>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegTinyFront.label>simple prosthetic leg</SimpleProstheticAnimalLegTinyFront.label>
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticAnimalLegTinyFront.description>simple prosthetic leg</SimpleProstheticAnimalLegTinyFront.description>
+  <!-- EN: leg -->
+  <SimpleProstheticAnimalLegTinyFront.comps.HediffComp_VerbGiver.tools.leg.label>leg</SimpleProstheticAnimalLegTinyFront.comps.HediffComp_VerbGiver.tools.leg.label>
+</LanguageData>

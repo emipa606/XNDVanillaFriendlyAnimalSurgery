@@ -106,7 +106,7 @@ public static class AnimalOperationFix
         if (Prefs.DevMode)
         {
             Log.Message(
-                $"XND Vanilla-Friendly Animal Surgery: Added surgery recipies to {animalsInGame.Count} animal-spieces");
+                $"XND Vanilla-Friendly Animal Surgery: Added surgery recipes to {animalsInGame.Count} animal-species");
         }
     }
 }

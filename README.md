@@ -1,29 +1,27 @@
-# XNDVanillaFriendlyAnimalSurgery
+# [[XND] Vanilla-Friendly Animal Surgery (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2343960451)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of XeoNovaDan mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1130112804
 
-- Replaced the patches with assemblies instead, should now work on all animals similar to https://steamcommunity.com/sharedfiles/filedetails/?id=2270547158][XND] Animal Armor (Continued)
+- Replaced the patches with assemblies instead, should now work on all animals similar to [[XND] Animal Armor (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2270547158)
 - Added the possibility to craft all animal body-parts
 - Added ear implants
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
+~~# **Compatibility**
 
-[strike]# **Compatibility**
-
-For Modders: To make a patch for this mod, simply plug the defNames of your mod&apos;s animals into the appropriate XML patches. Vanilla animal patches can be found in Patches/Core for reference.[/strike]
+For Modders: To make a patch for this mod, simply plug the defNames of your mod&apos;s animals into the appropriate XML patches. Vanilla animal patches can be found in Patches/Core for reference.~~
 
 I wouldn&apos;t recommend using this *and* &apos;A Dog Said&apos; together due to the overlap of parts and balance inconsistencies that will be introduced.
 
-Recommended to use with https://steamcommunity.com/sharedfiles/filedetails/?id=2270547158]**Animal Armor** to maximize the customization of your animals.
+Recommended to use with [**Animal Armor**](https://steamcommunity.com/sharedfiles/filedetails/?id=2270547158) to maximize the customization of your animals.
 
-[strike]No animal mods have been made compatible with this yet. I&apos;m not going to be responsible for creating compatibility patches with other mods either.[/strike]
+~~No animal mods have been made compatible with this yet. I&apos;m not going to be responsible for creating compatibility patches with other mods either.~~
 
 # **Overview**
 
@@ -40,7 +38,7 @@ These are the five size categories:
 **Large -** Fits on animals with a mature body size between 1.3 and 2.4, such as muffalo and bears.
 **Huge -** Fits on animals with a mature body size equal to or greater than 2.4, such as rhinoceroses and thrumbos.
 
-[strike]Animal organs and prostheses, similar to human prostheses in the base game, can only be obtained via trade; you can&apos;t produce them or expect them to come falling from the sky. For balance reasons and due to XML limitations, you can&apos;t harvest animals for their organs either; they also can only be obtained via trade.[/strike]
+~~Animal organs and prostheses, similar to human prostheses in the base game, can only be obtained via trade; you can&apos;t produce them or expect them to come falling from the sky. For balance reasons and due to XML limitations, you can&apos;t harvest animals for their organs either; they also can only be obtained via trade.~~
 
 Animal body parts also have their own trade categories, so these won&apos;t interfere with the commonality of human body parts on the market. Additionally, adding part to and removing parts from animals only yields 5/16ths as much experience as an operation on a human, to reduce the feasibility of experience grinding.
 
@@ -59,13 +57,12 @@ You may use this mod in your mod packs, and you may also derive from the mod. Al
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2343960451]![Image](https://img.shields.io/github/v/release/emipa606/XNDVanillaFriendlyAnimalSurgery?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/XNDVanillaFriendlyAnimalSurgery?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2343960451) | tags:  prosthetics,  bionics

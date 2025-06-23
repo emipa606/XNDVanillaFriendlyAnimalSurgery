@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Defs>
   <RecipeDef ParentName="SurgeryAnimalFlesh" Name="InstallBionicAnimalLegBase" Abstract="True">
     <label>install bionic leg</label>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegHuge.label>install bionic leg</InstallBionicAnimalLegHuge.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegHuge.description>Installs bionic leg.</InstallBionicAnimalLegHuge.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegHuge.jobString>Installing bionic leg.</InstallBionicAnimalLegHuge.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegHugeBirdlike.label>install bionic leg</InstallBionicAnimalLegHugeBirdlike.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegHugeBirdlike.description>Installs bionic leg.</InstallBionicAnimalLegHugeBirdlike.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegHugeBirdlike.jobString>Installing bionic leg.</InstallBionicAnimalLegHugeBirdlike.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegHugeFront.label>install bionic leg</InstallBionicAnimalLegHugeFront.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegHugeFront.description>Installs bionic leg.</InstallBionicAnimalLegHugeFront.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegHugeFront.jobString>Installing bionic leg.</InstallBionicAnimalLegHugeFront.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegLarge.label>install bionic leg</InstallBionicAnimalLegLarge.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegLarge.description>Installs bionic leg.</InstallBionicAnimalLegLarge.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegLarge.jobString>Installing bionic leg.</InstallBionicAnimalLegLarge.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegLargeBirdlike.label>install bionic leg</InstallBionicAnimalLegLargeBirdlike.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegLargeBirdlike.description>Installs bionic leg.</InstallBionicAnimalLegLargeBirdlike.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegLargeBirdlike.jobString>Installing bionic leg.</InstallBionicAnimalLegLargeBirdlike.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegLargeFront.label>install bionic leg</InstallBionicAnimalLegLargeFront.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegLargeFront.description>Installs bionic leg.</InstallBionicAnimalLegLargeFront.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegLargeFront.jobString>Installing bionic leg.</InstallBionicAnimalLegLargeFront.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegMedium.label>install bionic leg</InstallBionicAnimalLegMedium.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegMedium.description>Installs bionic leg.</InstallBionicAnimalLegMedium.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegMedium.jobString>Installing bionic leg.</InstallBionicAnimalLegMedium.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegMediumBirdlike.label>install bionic leg</InstallBionicAnimalLegMediumBirdlike.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegMediumBirdlike.description>Installs bionic leg.</InstallBionicAnimalLegMediumBirdlike.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegMediumBirdlike.jobString>Installing bionic leg.</InstallBionicAnimalLegMediumBirdlike.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegMediumFront.label>install bionic leg</InstallBionicAnimalLegMediumFront.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegMediumFront.description>Installs bionic leg.</InstallBionicAnimalLegMediumFront.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegMediumFront.jobString>Installing bionic leg.</InstallBionicAnimalLegMediumFront.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegSmall.label>install bionic leg</InstallBionicAnimalLegSmall.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegSmall.description>Installs bionic leg.</InstallBionicAnimalLegSmall.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegSmall.jobString>Installing bionic leg.</InstallBionicAnimalLegSmall.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegSmallBirdlike.label>install bionic leg</InstallBionicAnimalLegSmallBirdlike.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegSmallBirdlike.description>Installs bionic leg.</InstallBionicAnimalLegSmallBirdlike.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegSmallBirdlike.jobString>Installing bionic leg.</InstallBionicAnimalLegSmallBirdlike.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegSmallFront.label>install bionic leg</InstallBionicAnimalLegSmallFront.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegSmallFront.description>Installs bionic leg.</InstallBionicAnimalLegSmallFront.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegSmallFront.jobString>Installing bionic leg.</InstallBionicAnimalLegSmallFront.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegTiny.label>install bionic leg</InstallBionicAnimalLegTiny.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegTiny.description>Installs bionic leg.</InstallBionicAnimalLegTiny.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegTiny.jobString>Installing bionic leg.</InstallBionicAnimalLegTiny.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegTinyBirdlike.label>install bionic leg</InstallBionicAnimalLegTinyBirdlike.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegTinyBirdlike.description>Installs bionic leg.</InstallBionicAnimalLegTinyBirdlike.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegTinyBirdlike.jobString>Installing bionic leg.</InstallBionicAnimalLegTinyBirdlike.jobString>
+  <!-- EN: install bionic leg -->
+  <InstallBionicAnimalLegTinyFront.label>install bionic leg</InstallBionicAnimalLegTinyFront.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicAnimalLegTinyFront.description>Installs bionic leg.</InstallBionicAnimalLegTinyFront.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicAnimalLegTinyFront.jobString>Installing bionic leg.</InstallBionicAnimalLegTinyFront.jobString>
+</LanguageData>

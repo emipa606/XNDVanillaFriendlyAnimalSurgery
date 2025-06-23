@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmHuge.label>simple prosthetic arm</SimpleProstheticAnimalArmHuge.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmHuge.description>simple prosthetic arm</SimpleProstheticAnimalArmHuge.description>
+  <!-- EN: fist -->
+  <SimpleProstheticAnimalArmHuge.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticAnimalArmHuge.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmLarge.label>simple prosthetic arm</SimpleProstheticAnimalArmLarge.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmLarge.description>simple prosthetic arm</SimpleProstheticAnimalArmLarge.description>
+  <!-- EN: fist -->
+  <SimpleProstheticAnimalArmLarge.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticAnimalArmLarge.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmMedium.label>simple prosthetic arm</SimpleProstheticAnimalArmMedium.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmMedium.description>simple prosthetic arm</SimpleProstheticAnimalArmMedium.description>
+  <!-- EN: fist -->
+  <SimpleProstheticAnimalArmMedium.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticAnimalArmMedium.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmSmall.label>simple prosthetic arm</SimpleProstheticAnimalArmSmall.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmSmall.description>simple prosthetic arm</SimpleProstheticAnimalArmSmall.description>
+  <!-- EN: fist -->
+  <SimpleProstheticAnimalArmSmall.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticAnimalArmSmall.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmTiny.label>simple prosthetic arm</SimpleProstheticAnimalArmTiny.label>
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticAnimalArmTiny.description>simple prosthetic arm</SimpleProstheticAnimalArmTiny.description>
+  <!-- EN: fist -->
+  <SimpleProstheticAnimalArmTiny.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticAnimalArmTiny.comps.HediffComp_VerbGiver.tools.fist.label>
+</LanguageData>

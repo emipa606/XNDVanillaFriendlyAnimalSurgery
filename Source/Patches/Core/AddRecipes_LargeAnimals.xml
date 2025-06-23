@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Patch>
   <!-- large animals list:
 	[@Name="BigCatThingBase" or defName="Boomalope" or defName="Dromedary" or defName="Cow" or defName="Muffalo" or defName="Elk" or @Name="BaseBear" or defName="Caribou"]-->

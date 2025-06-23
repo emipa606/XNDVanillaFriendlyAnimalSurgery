@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install kidney -->
+  <InstallAnimalNaturalKidneyHuge.label>install kidney</InstallAnimalNaturalKidneyHuge.label>
+  <!-- EN: Installs kidney. -->
+  <InstallAnimalNaturalKidneyHuge.description>Installs kidney.</InstallAnimalNaturalKidneyHuge.description>
+  <!-- EN: Installing kidney. -->
+  <InstallAnimalNaturalKidneyHuge.jobString>Installing kidney.</InstallAnimalNaturalKidneyHuge.jobString>
+  <!-- EN: install kidney -->
+  <InstallAnimalNaturalKidneyLarge.label>install kidney</InstallAnimalNaturalKidneyLarge.label>
+  <!-- EN: Installs kidney. -->
+  <InstallAnimalNaturalKidneyLarge.description>Installs kidney.</InstallAnimalNaturalKidneyLarge.description>
+  <!-- EN: Installing kidney. -->
+  <InstallAnimalNaturalKidneyLarge.jobString>Installing kidney.</InstallAnimalNaturalKidneyLarge.jobString>
+  <!-- EN: install kidney -->
+  <InstallAnimalNaturalKidneyMedium.label>install kidney</InstallAnimalNaturalKidneyMedium.label>
+  <!-- EN: Installs kidney. -->
+  <InstallAnimalNaturalKidneyMedium.description>Installs kidney.</InstallAnimalNaturalKidneyMedium.description>
+  <!-- EN: Installing kidney. -->
+  <InstallAnimalNaturalKidneyMedium.jobString>Installing kidney.</InstallAnimalNaturalKidneyMedium.jobString>
+  <!-- EN: install kidney -->
+  <InstallAnimalNaturalKidneySmall.label>install kidney</InstallAnimalNaturalKidneySmall.label>
+  <!-- EN: Installs kidney. -->
+  <InstallAnimalNaturalKidneySmall.description>Installs kidney.</InstallAnimalNaturalKidneySmall.description>
+  <!-- EN: Installing kidney. -->
+  <InstallAnimalNaturalKidneySmall.jobString>Installing kidney.</InstallAnimalNaturalKidneySmall.jobString>
+  <!-- EN: install kidney -->
+  <InstallAnimalNaturalKidneyTiny.label>install kidney</InstallAnimalNaturalKidneyTiny.label>
+  <!-- EN: Installs kidney. -->
+  <InstallAnimalNaturalKidneyTiny.description>Installs kidney.</InstallAnimalNaturalKidneyTiny.description>
+  <!-- EN: Installing kidney. -->
+  <InstallAnimalNaturalKidneyTiny.jobString>Installing kidney.</InstallAnimalNaturalKidneyTiny.jobString>
+</LanguageData>

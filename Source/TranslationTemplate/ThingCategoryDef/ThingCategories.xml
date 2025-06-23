@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bionic arms -->
+  <AnimalBionicArms.label>bionic arms</AnimalBionicArms.label>
+  <!-- EN: bionic ears -->
+  <AnimalBionicEars.label>bionic ears</AnimalBionicEars.label>
+  <!-- EN: bionic eyes -->
+  <AnimalBionicEyes.label>bionic eyes</AnimalBionicEyes.label>
+  <!-- EN: bionic legs -->
+  <AnimalBionicLegs.label>bionic legs</AnimalBionicLegs.label>
+  <!-- EN: animal -->
+  <AnimalBodyParts.label>animal</AnimalBodyParts.label>
+  <!-- EN: artificial -->
+  <AnimalBodyPartsArtificial.label>artificial</AnimalBodyPartsArtificial.label>
+  <!-- EN: natural -->
+  <AnimalBodyPartsNatural.label>natural</AnimalBodyPartsNatural.label>
+  <!-- EN: implants -->
+  <AnimalImplants.label>implants</AnimalImplants.label>
+  <!-- EN: hearts -->
+  <AnimalNaturalHearts.label>hearts</AnimalNaturalHearts.label>
+  <!-- EN: kidneys -->
+  <AnimalNaturalKidneys.label>kidneys</AnimalNaturalKidneys.label>
+  <!-- EN: livers -->
+  <AnimalNaturalLivers.label>livers</AnimalNaturalLivers.label>
+  <!-- EN: lungs -->
+  <AnimalNaturalLungs.label>lungs</AnimalNaturalLungs.label>
+  <!-- EN: painstoppers -->
+  <AnimalPainstoppers.label>painstoppers</AnimalPainstoppers.label>
+  <!-- EN: simple prosthetic arms -->
+  <AnimalSimpleArms.label>simple prosthetic arms</AnimalSimpleArms.label>
+  <!-- EN: simple prosthetic legs -->
+  <AnimalSimpleLegs.label>simple prosthetic legs</AnimalSimpleLegs.label>
+</LanguageData>

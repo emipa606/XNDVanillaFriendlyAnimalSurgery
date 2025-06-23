@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install heart -->
+  <InstallAnimalNaturalHeartHuge.label>install heart</InstallAnimalNaturalHeartHuge.label>
+  <!-- EN: Installs heart. -->
+  <InstallAnimalNaturalHeartHuge.description>Installs heart.</InstallAnimalNaturalHeartHuge.description>
+  <!-- EN: Installing heart. -->
+  <InstallAnimalNaturalHeartHuge.jobString>Installing heart.</InstallAnimalNaturalHeartHuge.jobString>
+  <!-- EN: install heart -->
+  <InstallAnimalNaturalHeartLarge.label>install heart</InstallAnimalNaturalHeartLarge.label>
+  <!-- EN: Installs heart. -->
+  <InstallAnimalNaturalHeartLarge.description>Installs heart.</InstallAnimalNaturalHeartLarge.description>
+  <!-- EN: Installing heart. -->
+  <InstallAnimalNaturalHeartLarge.jobString>Installing heart.</InstallAnimalNaturalHeartLarge.jobString>
+  <!-- EN: install heart -->
+  <InstallAnimalNaturalHeartMedium.label>install heart</InstallAnimalNaturalHeartMedium.label>
+  <!-- EN: Installs heart. -->
+  <InstallAnimalNaturalHeartMedium.description>Installs heart.</InstallAnimalNaturalHeartMedium.description>
+  <!-- EN: Installing heart. -->
+  <InstallAnimalNaturalHeartMedium.jobString>Installing heart.</InstallAnimalNaturalHeartMedium.jobString>
+  <!-- EN: install heart -->
+  <InstallAnimalNaturalHeartSmall.label>install heart</InstallAnimalNaturalHeartSmall.label>
+  <!-- EN: Installs heart. -->
+  <InstallAnimalNaturalHeartSmall.description>Installs heart.</InstallAnimalNaturalHeartSmall.description>
+  <!-- EN: Installing heart. -->
+  <InstallAnimalNaturalHeartSmall.jobString>Installing heart.</InstallAnimalNaturalHeartSmall.jobString>
+  <!-- EN: install heart -->
+  <InstallAnimalNaturalHeartTiny.label>install heart</InstallAnimalNaturalHeartTiny.label>
+  <!-- EN: Installs heart. -->
+  <InstallAnimalNaturalHeartTiny.description>Installs heart.</InstallAnimalNaturalHeartTiny.description>
+  <!-- EN: Installing heart. -->
+  <InstallAnimalNaturalHeartTiny.jobString>Installing heart.</InstallAnimalNaturalHeartTiny.jobString>
+</LanguageData>

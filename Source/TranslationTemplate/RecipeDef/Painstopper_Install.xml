@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install painstopper -->
+  <InstallAnimalPainstopperHuge.label>install painstopper</InstallAnimalPainstopperHuge.label>
+  <!-- EN: Installs painstopper. -->
+  <InstallAnimalPainstopperHuge.description>Installs painstopper.</InstallAnimalPainstopperHuge.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallAnimalPainstopperHuge.jobString>Installing painstopper.</InstallAnimalPainstopperHuge.jobString>
+  <!-- EN: install painstopper -->
+  <InstallAnimalPainstopperLarge.label>install painstopper</InstallAnimalPainstopperLarge.label>
+  <!-- EN: Installs painstopper. -->
+  <InstallAnimalPainstopperLarge.description>Installs painstopper.</InstallAnimalPainstopperLarge.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallAnimalPainstopperLarge.jobString>Installing painstopper.</InstallAnimalPainstopperLarge.jobString>
+  <!-- EN: install painstopper -->
+  <InstallAnimalPainstopperMedium.label>install painstopper</InstallAnimalPainstopperMedium.label>
+  <!-- EN: Installs painstopper. -->
+  <InstallAnimalPainstopperMedium.description>Installs painstopper.</InstallAnimalPainstopperMedium.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallAnimalPainstopperMedium.jobString>Installing painstopper.</InstallAnimalPainstopperMedium.jobString>
+  <!-- EN: install painstopper -->
+  <InstallAnimalPainstopperSmall.label>install painstopper</InstallAnimalPainstopperSmall.label>
+  <!-- EN: Installs painstopper. -->
+  <InstallAnimalPainstopperSmall.description>Installs painstopper.</InstallAnimalPainstopperSmall.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallAnimalPainstopperSmall.jobString>Installing painstopper.</InstallAnimalPainstopperSmall.jobString>
+  <!-- EN: install painstopper -->
+  <InstallAnimalPainstopperTiny.label>install painstopper</InstallAnimalPainstopperTiny.label>
+  <!-- EN: Installs painstopper. -->
+  <InstallAnimalPainstopperTiny.description>Installs painstopper.</InstallAnimalPainstopperTiny.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallAnimalPainstopperTiny.jobString>Installing painstopper.</InstallAnimalPainstopperTiny.jobString>
+</LanguageData>

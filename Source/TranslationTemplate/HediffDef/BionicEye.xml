@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeHuge.label>bionic eye</BionicAnimalEyeHuge.label>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeHuge.description>bionic eye</BionicAnimalEyeHuge.description>
+  <!-- EN: a bionic eye -->
+  <BionicAnimalEyeHuge.labelNoun>a bionic eye</BionicAnimalEyeHuge.labelNoun>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeLarge.label>bionic eye</BionicAnimalEyeLarge.label>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeLarge.description>bionic eye</BionicAnimalEyeLarge.description>
+  <!-- EN: a bionic eye -->
+  <BionicAnimalEyeLarge.labelNoun>a bionic eye</BionicAnimalEyeLarge.labelNoun>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeMedium.label>bionic eye</BionicAnimalEyeMedium.label>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeMedium.description>bionic eye</BionicAnimalEyeMedium.description>
+  <!-- EN: a bionic eye -->
+  <BionicAnimalEyeMedium.labelNoun>a bionic eye</BionicAnimalEyeMedium.labelNoun>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeSmall.label>bionic eye</BionicAnimalEyeSmall.label>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeSmall.description>bionic eye</BionicAnimalEyeSmall.description>
+  <!-- EN: a bionic eye -->
+  <BionicAnimalEyeSmall.labelNoun>a bionic eye</BionicAnimalEyeSmall.labelNoun>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeTiny.label>bionic eye</BionicAnimalEyeTiny.label>
+  <!-- EN: bionic eye -->
+  <BionicAnimalEyeTiny.description>bionic eye</BionicAnimalEyeTiny.description>
+  <!-- EN: a bionic eye -->
+  <BionicAnimalEyeTiny.labelNoun>a bionic eye</BionicAnimalEyeTiny.labelNoun>
+</LanguageData>

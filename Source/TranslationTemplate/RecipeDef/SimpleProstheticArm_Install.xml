@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install simple prosthetic arm -->
+  <InstallSimpleProstheticAnimalArmHuge.label>install simple prosthetic arm</InstallSimpleProstheticAnimalArmHuge.label>
+  <!-- EN: Installs simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmHuge.description>Installs simple prosthetic arm.</InstallSimpleProstheticAnimalArmHuge.description>
+  <!-- EN: Installing simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmHuge.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticAnimalArmHuge.jobString>
+  <!-- EN: install simple prosthetic arm -->
+  <InstallSimpleProstheticAnimalArmLarge.label>install simple prosthetic arm</InstallSimpleProstheticAnimalArmLarge.label>
+  <!-- EN: Installs simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmLarge.description>Installs simple prosthetic arm.</InstallSimpleProstheticAnimalArmLarge.description>
+  <!-- EN: Installing simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmLarge.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticAnimalArmLarge.jobString>
+  <!-- EN: install simple prosthetic arm -->
+  <InstallSimpleProstheticAnimalArmMedium.label>install simple prosthetic arm</InstallSimpleProstheticAnimalArmMedium.label>
+  <!-- EN: Installs simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmMedium.description>Installs simple prosthetic arm.</InstallSimpleProstheticAnimalArmMedium.description>
+  <!-- EN: Installing simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmMedium.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticAnimalArmMedium.jobString>
+  <!-- EN: install simple prosthetic arm -->
+  <InstallSimpleProstheticAnimalArmSmall.label>install simple prosthetic arm</InstallSimpleProstheticAnimalArmSmall.label>
+  <!-- EN: Installs simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmSmall.description>Installs simple prosthetic arm.</InstallSimpleProstheticAnimalArmSmall.description>
+  <!-- EN: Installing simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmSmall.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticAnimalArmSmall.jobString>
+  <!-- EN: install simple prosthetic arm -->
+  <InstallSimpleProstheticAnimalArmTiny.label>install simple prosthetic arm</InstallSimpleProstheticAnimalArmTiny.label>
+  <!-- EN: Installs simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmTiny.description>Installs simple prosthetic arm.</InstallSimpleProstheticAnimalArmTiny.description>
+  <!-- EN: Installing simple prosthetic arm. -->
+  <InstallSimpleProstheticAnimalArmTiny.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticAnimalArmTiny.jobString>
+</LanguageData>

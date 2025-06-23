@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install bionic ear -->
+  <InstallBionicAnimalEarHuge.label>install bionic ear</InstallBionicAnimalEarHuge.label>
+  <!-- EN: Installs bionic ear. -->
+  <InstallBionicAnimalEarHuge.description>Installs bionic ear.</InstallBionicAnimalEarHuge.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicAnimalEarHuge.jobString>Installing bionic ear.</InstallBionicAnimalEarHuge.jobString>
+  <!-- EN: install bionic ear -->
+  <InstallBionicAnimalEarLarge.label>install bionic ear</InstallBionicAnimalEarLarge.label>
+  <!-- EN: Installs bionic ear. -->
+  <InstallBionicAnimalEarLarge.description>Installs bionic ear.</InstallBionicAnimalEarLarge.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicAnimalEarLarge.jobString>Installing bionic ear.</InstallBionicAnimalEarLarge.jobString>
+  <!-- EN: install bionic ear -->
+  <InstallBionicAnimalEarMedium.label>install bionic ear</InstallBionicAnimalEarMedium.label>
+  <!-- EN: Installs bionic ear. -->
+  <InstallBionicAnimalEarMedium.description>Installs bionic ear.</InstallBionicAnimalEarMedium.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicAnimalEarMedium.jobString>Installing bionic ear.</InstallBionicAnimalEarMedium.jobString>
+  <!-- EN: install bionic ear -->
+  <InstallBionicAnimalEarSmall.label>install bionic ear</InstallBionicAnimalEarSmall.label>
+  <!-- EN: Installs bionic ear. -->
+  <InstallBionicAnimalEarSmall.description>Installs bionic ear.</InstallBionicAnimalEarSmall.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicAnimalEarSmall.jobString>Installing bionic ear.</InstallBionicAnimalEarSmall.jobString>
+  <!-- EN: install bionic ear -->
+  <InstallBionicAnimalEarTiny.label>install bionic ear</InstallBionicAnimalEarTiny.label>
+  <!-- EN: Installs bionic ear. -->
+  <InstallBionicAnimalEarTiny.description>Installs bionic ear.</InstallBionicAnimalEarTiny.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicAnimalEarTiny.jobString>Installing bionic ear.</InstallBionicAnimalEarTiny.jobString>
+</LanguageData>

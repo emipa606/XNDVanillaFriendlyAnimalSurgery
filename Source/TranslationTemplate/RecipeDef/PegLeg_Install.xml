@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install peg leg -->
+  <InstallPegAnimalLegHuge.label>install peg leg</InstallPegAnimalLegHuge.label>
+  <!-- EN: Installs peg leg. -->
+  <InstallPegAnimalLegHuge.description>Installs peg leg.</InstallPegAnimalLegHuge.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegAnimalLegHuge.jobString>Installing peg leg.</InstallPegAnimalLegHuge.jobString>
+  <!-- EN: install peg leg -->
+  <InstallPegAnimalLegLarge.label>install peg leg</InstallPegAnimalLegLarge.label>
+  <!-- EN: Installs peg leg. -->
+  <InstallPegAnimalLegLarge.description>Installs peg leg.</InstallPegAnimalLegLarge.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegAnimalLegLarge.jobString>Installing peg leg.</InstallPegAnimalLegLarge.jobString>
+  <!-- EN: install peg leg -->
+  <InstallPegAnimalLegMedium.label>install peg leg</InstallPegAnimalLegMedium.label>
+  <!-- EN: Installs peg leg. -->
+  <InstallPegAnimalLegMedium.description>Installs peg leg.</InstallPegAnimalLegMedium.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegAnimalLegMedium.jobString>Installing peg leg.</InstallPegAnimalLegMedium.jobString>
+  <!-- EN: install peg leg -->
+  <InstallPegAnimalLegSmall.label>install peg leg</InstallPegAnimalLegSmall.label>
+  <!-- EN: Installs peg leg. -->
+  <InstallPegAnimalLegSmall.description>Installs peg leg.</InstallPegAnimalLegSmall.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegAnimalLegSmall.jobString>Installing peg leg.</InstallPegAnimalLegSmall.jobString>
+  <!-- EN: install peg leg -->
+  <InstallPegAnimalLegTiny.label>install peg leg</InstallPegAnimalLegTiny.label>
+  <!-- EN: Installs peg leg. -->
+  <InstallPegAnimalLegTiny.description>Installs peg leg.</InstallPegAnimalLegTiny.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegAnimalLegTiny.jobString>Installing peg leg.</InstallPegAnimalLegTiny.jobString>
+</LanguageData>

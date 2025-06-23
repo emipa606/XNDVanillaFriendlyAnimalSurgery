@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install bionic arm -->
+  <InstallBionicAnimalArmHuge.label>install bionic arm</InstallBionicAnimalArmHuge.label>
+  <!-- EN: Installs bionic arm. -->
+  <InstallBionicAnimalArmHuge.description>Installs bionic arm.</InstallBionicAnimalArmHuge.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicAnimalArmHuge.jobString>Installing bionic arm.</InstallBionicAnimalArmHuge.jobString>
+  <!-- EN: install bionic arm -->
+  <InstallBionicAnimalArmLarge.label>install bionic arm</InstallBionicAnimalArmLarge.label>
+  <!-- EN: Installs bionic arm. -->
+  <InstallBionicAnimalArmLarge.description>Installs bionic arm.</InstallBionicAnimalArmLarge.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicAnimalArmLarge.jobString>Installing bionic arm.</InstallBionicAnimalArmLarge.jobString>
+  <!-- EN: install bionic arm -->
+  <InstallBionicAnimalArmMedium.label>install bionic arm</InstallBionicAnimalArmMedium.label>
+  <!-- EN: Installs bionic arm. -->
+  <InstallBionicAnimalArmMedium.description>Installs bionic arm.</InstallBionicAnimalArmMedium.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicAnimalArmMedium.jobString>Installing bionic arm.</InstallBionicAnimalArmMedium.jobString>
+  <!-- EN: install bionic arm -->
+  <InstallBionicAnimalArmSmall.label>install bionic arm</InstallBionicAnimalArmSmall.label>
+  <!-- EN: Installs bionic arm. -->
+  <InstallBionicAnimalArmSmall.description>Installs bionic arm.</InstallBionicAnimalArmSmall.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicAnimalArmSmall.jobString>Installing bionic arm.</InstallBionicAnimalArmSmall.jobString>
+  <!-- EN: install bionic arm -->
+  <InstallBionicAnimalArmTiny.label>install bionic arm</InstallBionicAnimalArmTiny.label>
+  <!-- EN: Installs bionic arm. -->
+  <InstallBionicAnimalArmTiny.description>Installs bionic arm.</InstallBionicAnimalArmTiny.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicAnimalArmTiny.jobString>Installing bionic arm.</InstallBionicAnimalArmTiny.jobString>
+</LanguageData>

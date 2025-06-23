@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmHuge.label>bionic arm</BionicAnimalArmHuge.label>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmHuge.description>bionic arm</BionicAnimalArmHuge.description>
+  <!-- EN: fist -->
+  <BionicAnimalArmHuge.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicAnimalArmHuge.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicAnimalArmHuge.labelNoun>a bionic arm</BionicAnimalArmHuge.labelNoun>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmLarge.label>bionic arm</BionicAnimalArmLarge.label>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmLarge.description>bionic arm</BionicAnimalArmLarge.description>
+  <!-- EN: fist -->
+  <BionicAnimalArmLarge.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicAnimalArmLarge.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicAnimalArmLarge.labelNoun>a bionic arm</BionicAnimalArmLarge.labelNoun>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmMedium.label>bionic arm</BionicAnimalArmMedium.label>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmMedium.description>bionic arm</BionicAnimalArmMedium.description>
+  <!-- EN: fist -->
+  <BionicAnimalArmMedium.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicAnimalArmMedium.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicAnimalArmMedium.labelNoun>a bionic arm</BionicAnimalArmMedium.labelNoun>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmSmall.label>bionic arm</BionicAnimalArmSmall.label>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmSmall.description>bionic arm</BionicAnimalArmSmall.description>
+  <!-- EN: fist -->
+  <BionicAnimalArmSmall.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicAnimalArmSmall.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicAnimalArmSmall.labelNoun>a bionic arm</BionicAnimalArmSmall.labelNoun>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmTiny.label>bionic arm</BionicAnimalArmTiny.label>
+  <!-- EN: bionic arm -->
+  <BionicAnimalArmTiny.description>bionic arm</BionicAnimalArmTiny.description>
+  <!-- EN: fist -->
+  <BionicAnimalArmTiny.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicAnimalArmTiny.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicAnimalArmTiny.labelNoun>a bionic arm</BionicAnimalArmTiny.labelNoun>
+</LanguageData>

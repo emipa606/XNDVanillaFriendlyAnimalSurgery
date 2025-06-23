@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install denture -->
+  <InstallAnimalDentureHuge.label>install denture</InstallAnimalDentureHuge.label>
+  <!-- EN: Installs denture. -->
+  <InstallAnimalDentureHuge.description>Installs denture.</InstallAnimalDentureHuge.description>
+  <!-- EN: Installing denture. -->
+  <InstallAnimalDentureHuge.jobString>Installing denture.</InstallAnimalDentureHuge.jobString>
+  <!-- EN: install denture -->
+  <InstallAnimalDentureLarge.label>install denture</InstallAnimalDentureLarge.label>
+  <!-- EN: Installs denture. -->
+  <InstallAnimalDentureLarge.description>Installs denture.</InstallAnimalDentureLarge.description>
+  <!-- EN: Installing denture. -->
+  <InstallAnimalDentureLarge.jobString>Installing denture.</InstallAnimalDentureLarge.jobString>
+  <!-- EN: install denture -->
+  <InstallAnimalDentureMedium.label>install denture</InstallAnimalDentureMedium.label>
+  <!-- EN: Installs denture. -->
+  <InstallAnimalDentureMedium.description>Installs denture.</InstallAnimalDentureMedium.description>
+  <!-- EN: Installing denture. -->
+  <InstallAnimalDentureMedium.jobString>Installing denture.</InstallAnimalDentureMedium.jobString>
+  <!-- EN: install denture -->
+  <InstallAnimalDentureSmall.label>install denture</InstallAnimalDentureSmall.label>
+  <!-- EN: Installs denture. -->
+  <InstallAnimalDentureSmall.description>Installs denture.</InstallAnimalDentureSmall.description>
+  <!-- EN: Installing denture. -->
+  <InstallAnimalDentureSmall.jobString>Installing denture.</InstallAnimalDentureSmall.jobString>
+  <!-- EN: install denture -->
+  <InstallAnimalDentureTiny.label>install denture</InstallAnimalDentureTiny.label>
+  <!-- EN: Installs denture. -->
+  <InstallAnimalDentureTiny.description>Installs denture.</InstallAnimalDentureTiny.description>
+  <!-- EN: Installing denture. -->
+  <InstallAnimalDentureTiny.jobString>Installing denture.</InstallAnimalDentureTiny.jobString>
+</LanguageData>

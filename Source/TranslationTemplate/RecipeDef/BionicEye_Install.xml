@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install bionic eye -->
+  <InstallBionicAnimalEyeHuge.label>install bionic eye</InstallBionicAnimalEyeHuge.label>
+  <!-- EN: Installs bionic eye. -->
+  <InstallBionicAnimalEyeHuge.description>Installs bionic eye.</InstallBionicAnimalEyeHuge.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicAnimalEyeHuge.jobString>Installing bionic eye.</InstallBionicAnimalEyeHuge.jobString>
+  <!-- EN: install bionic eye -->
+  <InstallBionicAnimalEyeLarge.label>install bionic eye</InstallBionicAnimalEyeLarge.label>
+  <!-- EN: Installs bionic eye. -->
+  <InstallBionicAnimalEyeLarge.description>Installs bionic eye.</InstallBionicAnimalEyeLarge.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicAnimalEyeLarge.jobString>Installing bionic eye.</InstallBionicAnimalEyeLarge.jobString>
+  <!-- EN: install bionic eye -->
+  <InstallBionicAnimalEyeMedium.label>install bionic eye</InstallBionicAnimalEyeMedium.label>
+  <!-- EN: Installs bionic eye. -->
+  <InstallBionicAnimalEyeMedium.description>Installs bionic eye.</InstallBionicAnimalEyeMedium.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicAnimalEyeMedium.jobString>Installing bionic eye.</InstallBionicAnimalEyeMedium.jobString>
+  <!-- EN: install bionic eye -->
+  <InstallBionicAnimalEyeSmall.label>install bionic eye</InstallBionicAnimalEyeSmall.label>
+  <!-- EN: Installs bionic eye. -->
+  <InstallBionicAnimalEyeSmall.description>Installs bionic eye.</InstallBionicAnimalEyeSmall.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicAnimalEyeSmall.jobString>Installing bionic eye.</InstallBionicAnimalEyeSmall.jobString>
+  <!-- EN: install bionic eye -->
+  <InstallBionicAnimalEyeTiny.label>install bionic eye</InstallBionicAnimalEyeTiny.label>
+  <!-- EN: Installs bionic eye. -->
+  <InstallBionicAnimalEyeTiny.description>Installs bionic eye.</InstallBionicAnimalEyeTiny.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicAnimalEyeTiny.jobString>Installing bionic eye.</InstallBionicAnimalEyeTiny.jobString>
+</LanguageData>

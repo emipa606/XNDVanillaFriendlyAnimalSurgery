@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: denture -->
+  <AnimalDentureHuge.label>denture</AnimalDentureHuge.label>
+  <!-- EN: denture -->
+  <AnimalDentureHuge.description>denture</AnimalDentureHuge.description>
+  <!-- EN: denture -->
+  <AnimalDentureLarge.label>denture</AnimalDentureLarge.label>
+  <!-- EN: denture -->
+  <AnimalDentureLarge.description>denture</AnimalDentureLarge.description>
+  <!-- EN: denture -->
+  <AnimalDentureMedium.label>denture</AnimalDentureMedium.label>
+  <!-- EN: denture -->
+  <AnimalDentureMedium.description>denture</AnimalDentureMedium.description>
+  <!-- EN: denture -->
+  <AnimalDentureSmall.label>denture</AnimalDentureSmall.label>
+  <!-- EN: denture -->
+  <AnimalDentureSmall.description>denture</AnimalDentureSmall.description>
+  <!-- EN: denture -->
+  <AnimalDentureTiny.label>denture</AnimalDentureTiny.label>
+  <!-- EN: denture -->
+  <AnimalDentureTiny.description>denture</AnimalDentureTiny.description>
+</LanguageData>

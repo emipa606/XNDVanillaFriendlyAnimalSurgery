@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install lung -->
+  <InstallAnimalNaturalLungHuge.label>install lung</InstallAnimalNaturalLungHuge.label>
+  <!-- EN: Installs lung. -->
+  <InstallAnimalNaturalLungHuge.description>Installs lung.</InstallAnimalNaturalLungHuge.description>
+  <!-- EN: Installing lung. -->
+  <InstallAnimalNaturalLungHuge.jobString>Installing lung.</InstallAnimalNaturalLungHuge.jobString>
+  <!-- EN: install lung -->
+  <InstallAnimalNaturalLungLarge.label>install lung</InstallAnimalNaturalLungLarge.label>
+  <!-- EN: Installs lung. -->
+  <InstallAnimalNaturalLungLarge.description>Installs lung.</InstallAnimalNaturalLungLarge.description>
+  <!-- EN: Installing lung. -->
+  <InstallAnimalNaturalLungLarge.jobString>Installing lung.</InstallAnimalNaturalLungLarge.jobString>
+  <!-- EN: install lung -->
+  <InstallAnimalNaturalLungMedium.label>install lung</InstallAnimalNaturalLungMedium.label>
+  <!-- EN: Installs lung. -->
+  <InstallAnimalNaturalLungMedium.description>Installs lung.</InstallAnimalNaturalLungMedium.description>
+  <!-- EN: Installing lung. -->
+  <InstallAnimalNaturalLungMedium.jobString>Installing lung.</InstallAnimalNaturalLungMedium.jobString>
+  <!-- EN: install lung -->
+  <InstallAnimalNaturalLungSmall.label>install lung</InstallAnimalNaturalLungSmall.label>
+  <!-- EN: Installs lung. -->
+  <InstallAnimalNaturalLungSmall.description>Installs lung.</InstallAnimalNaturalLungSmall.description>
+  <!-- EN: Installing lung. -->
+  <InstallAnimalNaturalLungSmall.jobString>Installing lung.</InstallAnimalNaturalLungSmall.jobString>
+  <!-- EN: install lung -->
+  <InstallAnimalNaturalLungTiny.label>install lung</InstallAnimalNaturalLungTiny.label>
+  <!-- EN: Installs lung. -->
+  <InstallAnimalNaturalLungTiny.description>Installs lung.</InstallAnimalNaturalLungTiny.description>
+  <!-- EN: Installing lung. -->
+  <InstallAnimalNaturalLungTiny.jobString>Installing lung.</InstallAnimalNaturalLungTiny.jobString>
+</LanguageData>

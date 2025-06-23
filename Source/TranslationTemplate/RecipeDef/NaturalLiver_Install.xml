@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install liver -->
+  <InstallAnimalNaturalLiverHuge.label>install liver</InstallAnimalNaturalLiverHuge.label>
+  <!-- EN: Installs liver. -->
+  <InstallAnimalNaturalLiverHuge.description>Installs liver.</InstallAnimalNaturalLiverHuge.description>
+  <!-- EN: Installing liver. -->
+  <InstallAnimalNaturalLiverHuge.jobString>Installing liver.</InstallAnimalNaturalLiverHuge.jobString>
+  <!-- EN: install liver -->
+  <InstallAnimalNaturalLiverLarge.label>install liver</InstallAnimalNaturalLiverLarge.label>
+  <!-- EN: Installs liver. -->
+  <InstallAnimalNaturalLiverLarge.description>Installs liver.</InstallAnimalNaturalLiverLarge.description>
+  <!-- EN: Installing liver. -->
+  <InstallAnimalNaturalLiverLarge.jobString>Installing liver.</InstallAnimalNaturalLiverLarge.jobString>
+  <!-- EN: install liver -->
+  <InstallAnimalNaturalLiverMedium.label>install liver</InstallAnimalNaturalLiverMedium.label>
+  <!-- EN: Installs liver. -->
+  <InstallAnimalNaturalLiverMedium.description>Installs liver.</InstallAnimalNaturalLiverMedium.description>
+  <!-- EN: Installing liver. -->
+  <InstallAnimalNaturalLiverMedium.jobString>Installing liver.</InstallAnimalNaturalLiverMedium.jobString>
+  <!-- EN: install liver -->
+  <InstallAnimalNaturalLiverSmall.label>install liver</InstallAnimalNaturalLiverSmall.label>
+  <!-- EN: Installs liver. -->
+  <InstallAnimalNaturalLiverSmall.description>Installs liver.</InstallAnimalNaturalLiverSmall.description>
+  <!-- EN: Installing liver. -->
+  <InstallAnimalNaturalLiverSmall.jobString>Installing liver.</InstallAnimalNaturalLiverSmall.jobString>
+  <!-- EN: install liver -->
+  <InstallAnimalNaturalLiverTiny.label>install liver</InstallAnimalNaturalLiverTiny.label>
+  <!-- EN: Installs liver. -->
+  <InstallAnimalNaturalLiverTiny.description>Installs liver.</InstallAnimalNaturalLiverTiny.description>
+  <!-- EN: Installing liver. -->
+  <InstallAnimalNaturalLiverTiny.jobString>Installing liver.</InstallAnimalNaturalLiverTiny.jobString>
+</LanguageData>

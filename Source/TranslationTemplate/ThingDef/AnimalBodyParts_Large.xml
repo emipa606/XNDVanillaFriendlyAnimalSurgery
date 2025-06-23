@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animal heart (large) -->
+  <AnimalNaturalHeartLarge.label>animal heart (large)</AnimalNaturalHeartLarge.label>
+  <!-- EN: Supplies blood and oxygen to all parts of the body. Ready to find a new owner.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <AnimalNaturalHeartLarge.description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</AnimalNaturalHeartLarge.description>
+  <!-- EN: animal kidney (large) -->
+  <AnimalNaturalKidneyLarge.label>animal kidney (large)</AnimalNaturalKidneyLarge.label>
+  <!-- EN: Filters and removes waste products from the blood.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <AnimalNaturalKidneyLarge.description>Filters and removes waste products from the blood.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</AnimalNaturalKidneyLarge.description>
+  <!-- EN: animal liver (large) -->
+  <AnimalNaturalLiverLarge.label>animal liver (large)</AnimalNaturalLiverLarge.label>
+  <!-- EN: Plays an important role in metabolism.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <AnimalNaturalLiverLarge.description>Plays an important role in metabolism.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</AnimalNaturalLiverLarge.description>
+  <!-- EN: animal lung (large) -->
+  <AnimalNaturalLungLarge.label>animal lung (large)</AnimalNaturalLungLarge.label>
+  <!-- EN: Essential part of the respiratory system.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <AnimalNaturalLungLarge.description>Essential part of the respiratory system.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</AnimalNaturalLungLarge.description>
+  <!-- EN: animal painstopper (large) -->
+  <AnimalPainstopperLarge.label>animal painstopper (large)</AnimalPainstopperLarge.label>
+  <!-- EN: This brain implant will make an animal not feel pain.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <AnimalPainstopperLarge.description>This brain implant will make an animal not feel pain.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</AnimalPainstopperLarge.description>
+  <!-- EN: bionic animal arm (large) -->
+  <BionicAnimalArmLarge.label>bionic animal arm (large)</BionicAnimalArmLarge.label>
+  <!-- EN: One of the most sophisticated arm replacements. Gives extreme strength to its user.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <BionicAnimalArmLarge.description>One of the most sophisticated arm replacements. Gives extreme strength to its user.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</BionicAnimalArmLarge.description>
+  <!-- EN: bionic animal ear (large) -->
+  <BionicAnimalEarLarge.label>bionic animal ear (large)</BionicAnimalEarLarge.label>
+  <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <BionicAnimalEarLarge.description>An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</BionicAnimalEarLarge.description>
+  <!-- EN: bionic animal eye (large) -->
+  <BionicAnimalEyeLarge.label>bionic animal eye (large)</BionicAnimalEyeLarge.label>
+  <!-- EN: Advanced piece of technology made not only to fully replace a natural eye, but also to give supernatural vision abilities.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <BionicAnimalEyeLarge.description>Advanced piece of technology made not only to fully replace a natural eye, but also to give supernatural vision abilities.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</BionicAnimalEyeLarge.description>
+  <!-- EN: bionic animal leg (large) -->
+  <BionicAnimalLegLarge.label>bionic animal leg (large)</BionicAnimalLegLarge.label>
+  <!-- EN: Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <BionicAnimalLegLarge.description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</BionicAnimalLegLarge.description>
+  <!-- EN: prosthetic animal arm (large) -->
+  <SimpleProstheticAnimalArmLarge.label>prosthetic animal arm (large)</SimpleProstheticAnimalArmLarge.label>
+  <!-- EN: Simple but durable arm prosthesis.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <SimpleProstheticAnimalArmLarge.description>Simple but durable arm prosthesis.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</SimpleProstheticAnimalArmLarge.description>
+  <!-- EN: prosthetic animal leg (large) -->
+  <SimpleProstheticAnimalLegLarge.label>prosthetic animal leg (large)</SimpleProstheticAnimalLegLarge.label>
+  <!-- EN: Simple prosthesis made to replace a missing leg. Not very comfortable but quite efficient.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <SimpleProstheticAnimalLegLarge.description>Simple prosthesis made to replace a missing leg. Not very comfortable but quite efficient.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</SimpleProstheticAnimalLegLarge.description>
+</LanguageData>
